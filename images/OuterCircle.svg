@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 240 240" style="enable-background:new 0 0 240 240;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FFFFFF;}
+	.st2{display:inline;fill:#282B34;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g id="LogoBackground" class="st0">
+	<circle class="st1" cx="120" cy="120" r="120"/>
+</g>
+<g id="Logo" class="st0">
+	<path class="st2" d="M52.7,175c-0.6,0-1.2-0.2-1.7-0.5c-1.5-0.9-1.9-2.9-0.9-4.3l67.3-103.8C118,65.5,119,65,120,65
+		c14.7,0,28.5,5.7,38.9,16.1C169.3,91.5,175,105.3,175,120s-5.7,28.5-16.1,38.9C148.5,169.3,134.7,175,120,175
+		c-1.7,0-3.1-1.4-3.1-3.1s1.4-3.1,3.1-3.1c26.9,0,48.8-21.9,48.8-48.8c0-26.3-21-47.8-47.1-48.7L55.4,173.6
+		C54.8,174.5,53.8,175,52.7,175z"/>
+</g>
+<g id="OuterCircle">
+	<circle class="st3" cx="120" cy="120" r="55"/>
+</g>
+<g id="InnerCircle" class="st0">
+	<circle class="st1" cx="120" cy="120" r="48.8"/>
+</g>
+<g id="LoadingRight" class="st0">
+	<path class="st2" d="M158.9,81.1C148.5,70.7,134.7,65,120,65c-1.7,0-3.1,1.4-3.1,3.1s1.4,3.1,3.1,3.1c26.9,0,48.8,21.9,48.8,48.8
+		s-21.9,48.8-48.8,48.8c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1c14.7,0,28.5-5.7,38.9-16.1S175,134.7,175,120
+		S169.3,91.5,158.9,81.1z"/>
+</g>
+<g id="LoadingLeft" class="st0">
+	<path class="st2" d="M81.1,81.1C91.5,70.7,105.3,65,120,65c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1c-26.9,0-48.8,21.9-48.8,48.8
+		s21.9,48.8,48.8,48.8c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1c-14.7,0-28.5-5.7-38.9-16.1S65,134.7,65,120
+		S70.7,91.5,81.1,81.1z"/>
+</g>
+<g id="LogoLeg" class="st0">
+	<path class="st2" d="M52.7,175c-0.6,0-1.2-0.2-1.7-0.5c-1.5-0.9-1.9-2.9-0.9-4.3l67.3-103.8C118,65.5,119,65,120,65
+		c2.9,0.9,3.9,3.1,1.7,6.3L55.4,173.6C54.8,174.5,53.8,175,52.7,175z"/>
+</g>
+</svg>

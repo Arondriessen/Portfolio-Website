@@ -1049,6 +1049,12 @@ img {
   width: 90%;
 }
 
+.projectimg.fixedvideo {
+  height: 30vw;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
 .paragraph {
   margin-bottom: 0px;
   color: #333;
@@ -1243,6 +1249,10 @@ img {
 
 .projecttagtext.coding {
   background-color: #13daa8;
+}
+
+.projecttagtext.gamedev {
+  background-color: #5eca28;
 }
 
 .projectimagesx4 {
@@ -1547,6 +1557,82 @@ img {
 
   .circleandtag {
     width: 70vw;
+  }
+
+  .projectssection {
+    padding-right: 0vw;
+    padding-left: 0vw;
+  }
+
+  .projectdiv {
+    margin-bottom: 200px;
+  }
+
+  .projectinfodiv {
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    -webkit-box-ordinal-group: 2;
+    -webkit-order: 1;
+    -ms-flex-order: 1;
+    order: 1;
+  }
+
+  .projectinfodiv.empty {
+    display: none;
+  }
+
+  .projectimg {
+    width: 100%;
+    min-height: auto;
+    -webkit-box-ordinal-group: 0;
+    -webkit-order: -1;
+    -ms-flex-order: -1;
+    order: -1;
+  }
+
+  .projectimg.cover {
+    max-height: 40vh;
+  }
+
+  .projectimg.extended {
+    width: 100%;
+  }
+
+  .projectsubdiv {
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+
+  .projectsubdiv.details {
+    margin-left: 10%;
+    padding-top: 60px;
+  }
+
+  .projectsubdiv.details.first {
+    margin-top: 75px;
+  }
+
+  .expandbuttondiv {
+    left: 0%;
+    width: 100%;
+    height: 100px;
+  }
+
+  .expandbuttondiv.close {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .expandbuttondiv.open {
+    display: none;
+  }
+
+  .projectimagesx4 {
+    width: 100%;
   }
 }
 

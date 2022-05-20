@@ -720,16 +720,16 @@ img {
 }
 
 .heading {
-  height: 100px;
   margin-right: auto;
+  margin-bottom: 1.2em;
   margin-left: auto;
   padding-top: 40px;
   border-bottom: 1px none #000;
+  line-height: 1.5em;
 }
 
 .heading.leftaligned {
   width: auto;
-  height: 61px;
   margin-left: 0px;
   padding-top: 0px;
   -webkit-box-flex: 0;
@@ -1223,7 +1223,7 @@ img {
 }
 
 .projecttagtext.vr {
-  background-color: #5bb268;
+  background-color: #83af51;
 }
 
 .projectimagesx4 {
